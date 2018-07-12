@@ -1,3 +1,3 @@
 # ExpoPlatform
 # Initial Setup
-npm i 
+* `npm install`
